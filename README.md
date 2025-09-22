@@ -2,14 +2,14 @@
 A database management robot for Marzban
 
 ## Telegram
-Join us on [Telegram](https://t.me/marzhelp) for support and updates.
+Join us on [Telegram]() for support and updates.
 
 ## Installation
 
 To install **Marzhelp**, use the following command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ppouria/marzhelp/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/panelsaleh/helpmar/main/install.sh)
 ```
 
 #### Important Note
